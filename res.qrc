@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/Blue_h.png</file>
+        <file>icon/Blue_o.png</file>
+        <file>icon/Blue_v.png</file>
+        <file>icon/Blue_w.png</file>
+        <file>icon/Bomb.png</file>
+        <file>icon/Green_h.png</file>
+        <file>icon/Green_o.png</file>
+        <file>icon/Green_v.png</file>
+        <file>icon/Green_w.png</file>
+        <file>icon/Orange_h.png</file>
+        <file>icon/Orange_o.png</file>
+        <file>icon/Orange_v.png</file>
+        <file>icon/Orange_w.png</file>
+        <file>icon/Purple_h.png</file>
+        <file>icon/Purple_o.png</file>
+        <file>icon/Purple_v.png</file>
+        <file>icon/Purple_w.png</file>
+        <file>icon/Red_h.png</file>
+        <file>icon/Red_o.png</file>
+        <file>icon/Red_v.png</file>
+        <file>icon/Red_w.png</file>
+        <file>icon/Yellow_h.png</file>
+        <file>icon/Yellow_o.png</file>
+        <file>icon/Yellow_v.png</file>
+        <file>icon/Yellow_w.png</file>
+    </qresource>
+</RCC>
